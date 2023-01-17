@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 
 20 years experience in building scalable data products
 
-See a few of my [projects](/projects/)
+See some of my [projects](/projects/)

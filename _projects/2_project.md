@@ -4,7 +4,7 @@ title: Sparse train
 description: Fast neural network training by dynamic sparsification
 img: assets/img/sparse-train/conv_ch_pruning.png
 # redirect: https://unsplash.com
-importance: 1
+importance: 2
 category: work
 ---
 Fast implementation of [PruneTrain: Fast Neural Network Training by Dynamic Sparse Model Reconfiguration](https://arxiv.org/abs/1901.09290) to reduce training time.
