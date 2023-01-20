@@ -27,7 +27,7 @@ I contributed a [Kaggle kernel](https://www.kaggle.com/alt250/multi-label-segmen
     </div>
 </div>
 
-I implemented the multi-task [Conv-MCD](https://arxiv.org/abs/1908.05311) model
+I adapted the multi-task [Conv-MCD](https://arxiv.org/abs/1908.05311) model
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
