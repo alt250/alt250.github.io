@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shallow-clouds
+title: Shallow clouds
 description: Understanding Clouds from Satellite Images
 img: assets/img/shallow-clouds/shallow-clouds.png
 # redirect: https://unsplash.com
